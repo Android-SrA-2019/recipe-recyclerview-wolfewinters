@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipe RecyclerView</string>
+    <string name="title_activity_recipe">Recipes</string>
+    <string name="directions_label">Directions</string>
+    <string name="ingredients_label">Ingredients</string>
+    <string name="action_settings">Action Settings</string>
+</resources>
